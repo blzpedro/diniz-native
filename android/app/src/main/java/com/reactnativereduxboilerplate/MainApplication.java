@@ -1,4 +1,4 @@
-package com.reactnativereduxboilerplate;
+package com.DinizNative;
 
 import android.app.Application;
 import android.content.Context;
